@@ -58,3 +58,7 @@ a {
 .fa-wrench {
     transform: scaleX(-1);
 }
+
+.fa-fighter-jet {
+    transform: scaleX(-1);
+}
