@@ -59,6 +59,10 @@ a {
     transform: scaleX(-1);
 }
 
+.fa-fighter-jet {
+    transform: scaleX(-1);
+}
+
 .body {
     max-height: 90vh;
     margin-top: 5vh;
